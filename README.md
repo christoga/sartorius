@@ -1,7 +1,7 @@
 # Sartorius
-Sartorius is the surname of a boy who thinks his voice is good, even tho his nothing compared to Stewie Griffin.
+Sartorius is the surname of a boy who thinks his voice is good, even tho he is nothing compared to Stewie Griffin.
 
-Oh, this repository is all about me roasting my young, naive self who wants to commit every fucking day and every fucking changes  in the code. Even one space is commited. Jesus.
+This repository is all about me roasting my young, naive self who wants to commit every fucking day and every fucking changes  in the code. Even one space is commited. Jesus.
 
 ## Shitty Projects
 - [Firedova](https://github.com/christoga/firedova) - Only a starter pack for a firebase x cordova app (3/5)
@@ -22,4 +22,3 @@ Oh, this repository is all about me roasting my young, naive self who wants to c
 - [area.py](https://github.com/christoga/area.py) - pretty useful (3.3/5)
 - [Antibully](https://github.com/christoga/antibully) - FML. Ending bullying aint that easy. I got bullied in my elementary school so I know it ain't easy bruh. (1.9/5)
 - [737](https://github.com/christoga/737) - This project is actually pretty useful, going to add more city in the future. (4/5)
-
