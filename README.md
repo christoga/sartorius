@@ -6,7 +6,7 @@ This repository is all about me roasting my young, naive self who wants to commi
 ## Shitty Projects
 - [Firedova](https://github.com/christoga/firedova) - Only a starter pack for a firebase x cordova app (3/5)
 - [Urinz](https://github.com/christoga/urinz) - Why would someone open their phone while/after peeing. (2/5)
-- [Tolongkami](https://github.com/christoga/tolongkami) - It's not easy to end a fucking bullying
+- [Tolongkami](https://github.com/christoga/tolongkami) - It's not easy to end a fucking bullying. I've been there (1/5)
 - [Firechat](https://github.com/christoga/firechat) - I ain't do shit on this repository, only copy-paste. (1/5)
 - [koding-config](https://github.com/christoga/koding-config) - I don't use koding that much, anymore. (2/5)
 - [CordovaMaterial](https://github.com/christoga/CordovaMaterial) - The last time I touch this repository was at Jun 23, 2016. That was 10 months ago. (3/5)
@@ -15,10 +15,10 @@ This repository is all about me roasting my young, naive self who wants to commi
 - [KawalInformasi](https://github.com/christoga/kawalinformasi) - It's easier to access reddit and pornhub than accessing government data. (2/5)
 - [learn-ruby](https://github.com/christoga/learn-ruby) - The same thing as **learn-python** repository. (2/5)
 - [ToDo](https://github.com/christoga/todo) - Just some shit with AngularJS in it. (3/5)
-- [Jomblo](https://github.com/christoga/Jomblo) - I'm a 13 year old kid, I don't know shit about love. (2/5)
+- [Jomblo](https://github.com/christoga/Jomblo) - I'm a 13 year old kid, I ain't know shit about love. (2/5)
 - [PyMaIn](https://github.com/christoga/PyMaIn) - Even FIFA 13 is better then this shit. FIFA 13 (-100/5)
 - [ng-calc](https://github.com/christoga/ng-calc) - same shit as the above (-100/5)
 - [rest-py](https://github.com/christoga/rest-py) - not that useless (3.5/5)
 - [area.py](https://github.com/christoga/area.py) - pretty useful (3.3/5)
-- [Antibully](https://github.com/christoga/antibully) - FML. Ending bullying aint that easy. I got bullied in my elementary school so I know it ain't easy bruh. (1.9/5)
+- [Antibully](https://github.com/christoga/antibully) - Wait.. didn't I create the same shit in the beggining? (1.9/5)
 - [737](https://github.com/christoga/737) - This project is actually pretty useful, going to add more city in the future. (4/5)
