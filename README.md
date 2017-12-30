@@ -1,7 +1,11 @@
 # Sartorius
-Sartorius is the surname of a boy who thinks his voice is good, even tho he is nothing compared to Stewie Griffin.
+Sartorius is the surname of a fuckboi king.
 
-This repository is all about me roasting my young, naive self who wants to commit every fucking day and every fucking changes  in the code. Even one space is commited. Jesus.
+This repository is all about me roasting my young, naive self who wants to commit every fucking day in every fucking changes  in the code. 
+
+Jesus fuck.
+
+> Please ignore all the weird commits messages. I was probably tired, and did some stupid shit. Please ignore them.
 
 ## Shitty Projects
 - [Firedova](https://github.com/christoga/firedova) - Only a starter pack for a firebase x cordova app (3/5)
